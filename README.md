@@ -44,4 +44,4 @@ I turn satellite, field, and machine data into smart farm decisions. Currently p
 ## 📬 Contact Me
 
 * 📧 **Email:** agtechfabian@gmail.com
-*
+
