@@ -1,4 +1,4 @@
-# Hi, I'm Ozias! 👋🌱
+# Hi, I'm FABIAN! 👋🌱
 
 ### 🚜 Agricultural Engineer & Remote Sensing Specialist
 I turn satellite, field, and machine data into smart farm decisions. Currently pursuing an **MSc in Digital Farming** at HSWT, Weihenstephan campus, Freising, Germany.
@@ -10,15 +10,9 @@ I turn satellite, field, and machine data into smart farm decisions. Currently p
 
 ## 🛠️ Toolbox
 
-### Languages & Frameworks
-![Python](https://shields.io)
-![Git](https://shields.io)
-![Jupyter Notebook](https://shields.io)
-
-### Geospatial & Machine Learning
-![QGIS](https://shields.io)
-![SciKit Learn](https://shields.io)
-![Pandas](https://shields.io)
+* **Languages & Frameworks:** `Python` | `Git` | `Jupyter (learning)`
+* **Geospatial & ML Data:** `QGIS` | `GeoPandas` | `rasterio` | `scikit-learn`
+* **Satellite Platforms:** `Sentinel-2`
 
 ---
 
@@ -44,4 +38,3 @@ I turn satellite, field, and machine data into smart farm decisions. Currently p
 ## 📬 Contact Me
 
 * 📧 **Email:** agtechfabian@gmail.com
-
