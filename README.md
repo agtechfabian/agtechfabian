@@ -1,4 +1,4 @@
-# Hi, I'm FABIAN! 👋🌱
+# Hi, I'm Ozias! 👋🌱
 
 ### 🚜 Agricultural Engineer & Remote Sensing Specialist
 I turn satellite, field, and machine data into smart farm decisions. Currently pursuing an **MSc in Digital Farming** at HSWT, Weihenstephan campus, Freising, Germany.
@@ -10,9 +10,15 @@ I turn satellite, field, and machine data into smart farm decisions. Currently p
 
 ## 🛠️ Toolbox
 
-* **Languages & Frameworks:** `Python` | `Git` | `Jupyter (learning)`
-* **Geospatial & ML Data:** `QGIS` | `GeoPandas` | `rasterio` | `scikit-learn`
-* **Satellite Platforms:** `Sentinel-2`
+### Languages & Frameworks
+![Python](https://shields.io)
+![Git](https://shields.io)
+![Jupyter Notebook](https://shields.io)
+
+### Geospatial & Machine Learning
+![QGIS](https://shields.io)
+![SciKit Learn](https://shields.io)
+![Pandas](https://shields.io)
 
 ---
 
@@ -21,7 +27,7 @@ I turn satellite, field, and machine data into smart farm decisions. Currently p
 | Project | Key Research Question | Status |
 | :--- | :--- | :--- |
 | 🌾 **freising-crop-weather** | How have frost, heat and drought risk for winter wheat in Freising changed since 1980? | 🟡 *In progress* |
-| 🛰️ **freising-fields-from-space** | How do wheat, maize and hop fields differ through a season in Sentinel-2? | 🔵 *Planned* |
+| 🛰️ **freising-fields-from-space** | How do wheat, maize and hop fields differ through a season in Sentinel-2? | 🔵 *Next (Feb 2027)* |
 | 🗺️ **bavarian-crop-classifier** | Can satellite time series identify crop types on unseen fields? | ⚪ *Planned* |
 | ☕ **eudr-plot-checker** | Is a smallholder coffee plot deforestation-free since 2020? | ⚪ *Planned* |
 
@@ -38,3 +44,4 @@ I turn satellite, field, and machine data into smart farm decisions. Currently p
 ## 📬 Contact Me
 
 * 📧 **Email:** agtechfabian@gmail.com
+*
